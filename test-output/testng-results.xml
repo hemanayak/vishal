@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8168" started-at="2017-11-25T13:21:04Z" finished-at="2017-11-25T13:21:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8168" started-at="2017-11-25T13:21:04Z" finished-at="2017-11-25T13:21:12Z">
+      <class name="com.clusters.test.smoke.LoginVaildU13578">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.clusters.test.smoke.LoginVaildU13578@5025a98f]" name="setUp" is-config="true" duration-ms="6057" started-at="2017-11-25T18:51:04Z" finished-at="2017-11-25T18:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginValidTC156()[pri:0, instance:com.clusters.test.smoke.LoginVaildU13578@5025a98f]" name="testLoginValidTC156" duration-ms="2080" started-at="2017-11-25T18:51:10Z" finished-at="2017-11-25T18:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginValidTC156 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.clusters.test.smoke.LoginVaildU13578@5025a98f]" name="tearDown" is-config="true" duration-ms="9" started-at="2017-11-25T18:51:12Z" finished-at="2017-11-25T18:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.clusters.test.smoke.LoginVaildU13578 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
